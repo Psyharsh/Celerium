@@ -1,0 +1,13 @@
+name = "Celerium"
+author = "Psystock"
+version = "1.1.0"
+pack-format = "packwiz:1.1.1"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "06648b338816fac7c41df58b3427913312fe17bfaa3abdf39685052796ef6458"
+
+[versions]
+fabric = "0.18.2"
+minecraft = "1.21.10"

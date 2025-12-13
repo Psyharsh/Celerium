@@ -1,0 +1,4 @@
+renderSavingScreen = false
+showToasts = true
+backgroundPriority = 2
+allowMultipleServers = true

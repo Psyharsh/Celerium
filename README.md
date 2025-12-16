@@ -1,12 +1,11 @@
 # Celerium
-Modpack to optimize the game without Sodium and its OpenGL 4.5 features that make the game crash on incompatible integrated GPUs.
+Modpack to optimize the game overall, with Sodium and everything necessarry to work on that.
 # Modrinth description:
 # Meet Celerium! 
 The Optimization mod that revolves around Celeron CPUs and iGPUs or just weak CPUs in general! \
-Have you ever had any problems with Sodium because you GPU or integrated GPU is too old? Well here's a modpack to deal with that! This modpack has mods that were carefully picked out so that they have **zero** conflicts with one another, and some preset configurations for low-end PCs, to ensure you have a better performance even with a crappy old computer. (like mine!) \
-Quick reminder: the calculations for chunk rendering for Minecraft are still kind of **bad**, so your game might still have some lag spikes when rendering new chunks, I'm still figuring out a way to make these types of lag spikes less often, if you know a way, please tell me on my Discord (@psystock), I would really appreciate it.
-## Why not Sodium?
-This modpack doesn't include Sodium, because Sodium started to have some features if a person with a GPU that doesn't support OpenGL 4.5 tries to use it, it will crash every time you try to load into a world. You can still manually add Sodium along with its extensions after importing the modpack. 
+Have you ever had any problems with Minecraft because you GPU or integrated GPU is too old? Well here's a modpack to deal with that! This modpack has mods that were carefully picked out so that they have **zero** conflicts with one another, to ensure you have a better performance even with a crappy old computer. (like mine!) \
+## Why ~~not~~ Sodium?
+Originally, the mod didn't include Sodium due to it crashing on my PC and that made me have the discovery that it started to have features it didn't support, but instead of trying to fix Sodium, I made this modpack as a workaround it. But it was all because of "Persistent Mapping", an OpenGL 4.4 feature, discovering that a simple toggle would've fixed all of this made me feel stupid, but now I'm reframing the modpack. Now Minecraft: Java Edition is modified by this modpack and configured so that older devices can run it without so many problems, since that was actually my original idea, the Sodium problem just motivated me more to do it. "So what now?" The modpack will now include Sodium, since it is an upgrade from Minecraft's default rendering code, the original versions of the pack will still be available for archival purposes, but deprecated.
 ## Some important stuff
 This modpack doesn't control how often the mods that it includes update, so I'll only update a certain mod in the pack if that update comes to my attention. \
 I will only update the modpack to newer versions once all the mods that it includes are updated to said version, but if it takes too long, I'll update the modpack with some mods missing due to them not being available in the newer version.
@@ -15,6 +14,8 @@ Of course you can! After all, this IS Minecraft: Java Edition, as long as the mo
 ## Ways of contact:
 Discord: @psystock \
 E-mail: jgraudomont02@gmail.com
+# Is it safe?
+Of course it is! It's even open-source, you can find the link to the source on your right, I'm still working on the documentation of the pack.
 # Mods included:
 [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) by [Lortseam](https://modrinth.com/user/Lortseam) (available on 1.1.0+) \
 [Block Entity Render Distance](https://modrinth.com/mod/block-entity-rd/) by [LoLip_p](https://modrinth.com/user/LoLip_p) \
@@ -32,5 +33,6 @@ E-mail: jgraudomont02@gmail.com
 [Mod Menu](https://modrinth.com/mod/modmenu) by [Prospector](https://modrinth.com/user/Prospector) \
 [Moonrise](https://modrinth.com/mod/moonrise-opt) by [jpenilla](https://modrinth.com/user/jpenilla) \
 [MoreCulling](https://modrinth.com/mod/moreculling) by [FX](https://modrinth.com/user/FX) \
-[Text Placeholder API](https://modrinth.com/mod/placeholder-api) by [Patbox](https://modrinth.com/user/Patbox)
+[Text Placeholder API](https://modrinth.com/mod/placeholder-api) by [Patbox](https://modrinth.com/user/Patbox) \
+[Sodium](https://modrinth.com/mod/sodium/) by [CaffeineMC](https://modrinth.com/organization/caffeinemc) (available in versions 1.2.1+) \
 [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) by [isxander](https://modrinth.com/user/isxander), the same creator of Debugify!

@@ -1,5 +1,6 @@
 # Celerium
 Modpack to optimize the game overall, with Sodium and everything necessary to work on that.
+# WARNING! THIS IS THE DOCS BRANCH OF THE MODPACK, THIS WAS MADE SO THAT I CAN WORK ON THE DOCUMENTATION BEFORE MAKING IT PUBLIC
 # Modrinth description:
 # Meet Celerium! 
 The Optimization modpack that revolves around Celeron CPUs and iGPUs or just weak CPUs in general! 

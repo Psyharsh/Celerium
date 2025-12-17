@@ -22,18 +22,12 @@ This preset is designed for **low-end and older PCs**, including weak CPUs and o
 - Smooth Lighting: **Off** 
 - Weather Quality: **Fast**
 - Cloud Quality: **Off**
-- Sky Rendering: **Off**
-- Stars: **Off** (optional)
-- Sun & Moon: **Off** (optional)
-- Fog: **Fast**
 
 ---
 
 ### Details
-- Water Quality: **Fast**
 - Leaves Quality: **Fast**
 - Particles: **Decreased** (or Minimal if you want more performance)
-- Rain Splash: **Off**
 - Biome Blend: **0 blocks**
 - Entity Shadows: **Off**
 
@@ -41,20 +35,16 @@ This preset is designed for **low-end and older PCs**, including weak CPUs and o
 
 ### Performance
 - Block Face Culling: **On** (Disable to troubleshoot any performance issues)
-- Compact Vertex Format: **On**
 - Fog Occlusion: **On**
 - Animate Only Visible Textures: **On**
-- Always Defer Chunk Updates: **Off**
 - Chunk Updates: **Soon**  
   *(Use **Deferred** for very old or unstable GPUs)*
 
 ---
 
 ### Advanced (Stability-Critical)
-- Multidraw: **Off**
 - Persistent Mapping: **Off**
 - CPU Render Ahead Limit: **0**
-- Allow Direct Memory Access: **Off**
 
 ---
 

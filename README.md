@@ -1,11 +1,12 @@
 # Celerium
-Modpack to optimize the game overall, with Sodium and everything necessarry to work on that.
+Modpack to optimize the game overall, with Sodium and everything necessary to work on that.
 # Modrinth description:
 # Meet Celerium! 
-The Optimization mod that revolves around Celeron CPUs and iGPUs or just weak CPUs in general! \
-Have you ever had any problems with Minecraft because you GPU or integrated GPU is too old? Well here's a modpack to deal with that! This modpack has mods that were carefully picked out so that they have **zero** conflicts with one another, to ensure you have a better performance even with a crappy old computer. (like mine!) \
-## Why ~~not~~ Sodium?
-Originally, the mod didn't include Sodium due to it crashing on my PC and that made me have the discovery that it started to have features it didn't support, but instead of trying to fix Sodium, I made this modpack as a workaround it. But it was all because of "Persistent Mapping", an OpenGL 4.4 feature, discovering that a simple toggle would've fixed all of this made me feel stupid, but now I'm reframing the modpack. Now Minecraft: Java Edition is modified by this modpack and configured so that older devices can run it without so many problems, since that was actually my original idea, the Sodium problem just motivated me more to do it. "So what now?" The modpack will now include Sodium, since it is an upgrade from Minecraft's default rendering code, the original versions of the pack will still be available for archival purposes, but deprecated.
+The Optimization mod that revolves around Celeron CPUs and iGPUs or just weak CPUs in general! 
+# Goal
+The main objective of this modpack is to make things easy for people that don't have very good PCs, mainly, Pentium/Celeron/Laptop users. Because I believe that anyone should enjoy Minecraft with less problems! This is mainly why this modpack exists.
+## How is Sodium safe?
+Originally, the modpack didn't have Sodium due to a crash, but now I discovered the option behind all that, an option called "Persistent Mapping", it requires OpenGL 4.4, so not all devices can use it, but sometimes, the drivers can be pretty buggy and tell the game that it does support it, even though it doesn't, so with this modpack, you pretty much don't have to do anything on the settings, because all of that is handled by the preset configuration I made.
 ## Some important stuff
 This modpack doesn't control how often the mods that it includes update, so I'll only update a certain mod in the pack if that update comes to my attention. \
 I will only update the modpack to newer versions once all the mods that it includes are updated to said version, but if it takes too long, I'll update the modpack with some mods missing due to them not being available in the newer version.

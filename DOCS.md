@@ -44,7 +44,7 @@ This preset is designed for **low-end and older PCs**, including weak CPUs and o
 
 ### Advanced (Stability-Critical)
 - Persistent Mapping: **Off**
-- CPU Render Ahead Limit: **0**
+- CPU Render Ahead Limit: **0** (Set the Value to 3 to troubleshoot performance issues)
 
 ---
 

@@ -4,6 +4,7 @@
 - [Weak PC Preset](#weak-pc-preset)
 - [Installation](#installation)
 - [Known Issues](#known-issues)
+- [Included Mods - How They Work](#how-mods-work)
 ## Overview
 This is the documentation for Celerium, where you can get all the help possible for the modpack. 
 It is advised to only be used in case of: 
@@ -225,3 +226,109 @@ If you encounter an issue not listed here, consider reporting it with:
 - Your hardware specifications
 - Launcher used
 - Game and modpack version
+
+## Included Mods – What They Do <a name="how-mods-work"></a>
+
+This modpack focuses on **performance, stability, and usability**, especially for weak or older PCs.  
+Below is a brief explanation of what each included mod does.
+
+---
+
+### Better Mount HUD
+Improves the HUD when riding mounts by displaying useful information such as mount health and stamina.
+
+---
+
+### Block Entity Render Distance
+Allows limiting how far block entities (e.g. chests, furnaces, signs) are rendered, reducing GPU load.
+
+---
+
+### Cloth Config API
+A library mod required by many other mods to provide in-game configuration screens.
+
+---
+
+### Debugify
+Fixes a large number of vanilla Minecraft bugs, improving stability and correctness without changing gameplay.
+
+---
+
+### Distant Horizons *(removed after v1.0)*
+Adds true distant terrain rendering.  
+Removed due to increased CPU and GPU usage, which conflicted with the modpack’s low-end hardware focus.
+
+---
+
+### Dynamic FPS
+Reduces resource usage when Minecraft is in the background or minimized, lowering CPU and GPU load.
+
+---
+
+### Fabric API
+Core library required for most Fabric mods to function.
+
+---
+
+### Fabric Language Kotlin
+Adds Kotlin language support for Fabric mods written in Kotlin.
+
+---
+
+### FastQuit
+Speeds up game shutdown and world exiting, reducing wait times when leaving a world or server.
+
+---
+
+### FerriteCore
+Reduces memory usage by optimizing how Minecraft stores block and item data.
+
+---
+
+### FPS – Display
+Displays the current FPS on-screen for easy performance monitoring.
+
+---
+
+### ImmediatelyFast
+Optimizes immediate-mode rendering, improving UI and overall rendering performance.
+
+---
+
+### Krypton
+Optimizes Minecraft’s networking code, improving multiplayer performance and reducing latency.
+
+---
+
+### Lithium
+Improves game logic performance, including AI, physics, and world ticking, reducing CPU usage.
+
+---
+
+### Mod Menu
+Adds a menu that allows viewing and configuring installed mods directly from the main menu.
+
+---
+
+### Moonrise
+Optimizes chunk loading and scheduling, improving performance during world generation and exploration.
+
+---
+
+### MoreCulling
+Prevents rendering of blocks and entities that are not visible to the player, improving FPS.
+
+---
+
+### Text Placeholder API
+Provides placeholder support for text used by other mods (library mod).
+
+---
+
+### Sodium
+A major rendering optimization mod that significantly improves FPS and reduces GPU load.
+
+---
+
+### YetAnotherConfigLib (YACL)
+Provides a modern and flexible configuration UI used by several mods in the pack.

@@ -4,7 +4,7 @@
 - [Weak PC Preset](#weak-pc-preset)
 - [Installation](#installation)
 - [Known Issues](#known-issues)
-- [Included Mods - How They Work](#how-mods-work)
+- [Included Mods - What They Do](#how-mods-work)
 ## Overview
 This is the documentation for Celerium, where you can get all the help possible for the modpack. 
 It is advised to only be used in case of: 

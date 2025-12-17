@@ -2,7 +2,7 @@
 Modpack to optimize the game overall, with Sodium and everything necessary to work on that.
 # Modrinth description:
 # Meet Celerium! 
-The Optimization mod that revolves around Celeron CPUs and iGPUs or just weak CPUs in general! 
+The Optimization modpack that revolves around Celeron CPUs and iGPUs or just weak CPUs in general! 
 # Goal
 The main objective of this modpack is to make things easy for people that don't have very good PCs, mainly, Pentium/Celeron/Laptop users. Because I believe that anyone should enjoy Minecraft with less problems! This is mainly why this modpack exists.
 ## How is Sodium safe?

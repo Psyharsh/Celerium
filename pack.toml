@@ -1,12 +1,12 @@
 name = "Celerium"
 author = "Psystock"
-version = "1.1.0"
+version = "1.2.1"
 pack-format = "packwiz:1.1.1"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "06648b338816fac7c41df58b3427913312fe17bfaa3abdf39685052796ef6458"
+hash = "e2c56901356777c4fc6ee0e7b387c4553f70ed837f6b5783f46897f5e229894c"
 
 [versions]
 fabric = "0.18.2"

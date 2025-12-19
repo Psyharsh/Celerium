@@ -20,7 +20,7 @@ Of course you can! After all, this IS Minecraft: Java Edition, as long as the mo
 Discord: @psystock \
 E-mail: jgraudomont02@gmail.com
 # Is it safe?
-Of course it is! It's even open-source, you can find the link to the source on your right, I'm still working on the documentation of the pack.
+Of course it is! It's even open-source, you can find the link to the source and the documentation on right, pretty useful stuff, right?
 # Mods included:
 [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) by [Lortseam](https://modrinth.com/user/Lortseam) (available on 1.1.0+) \
 [Block Entity Render Distance](https://modrinth.com/mod/block-entity-rd/) by [LoLip_p](https://modrinth.com/user/LoLip_p) \

@@ -3,8 +3,10 @@
 - [Overview](#overview)
 - [Weak PC Preset](#weak-pc-preset)
 - [Installation](#installation)
+- [How to add your own files](#how-to-add-your-own-files)
 - [Known Issues](#known-issues)
 - [Included Mods - What They Do](#how-mods-work)
+
 ## Overview
 This is the documentation for Celerium, where you can get all the help possible for the modpack. 
 It is advised to only be used in case of: 
@@ -125,6 +127,17 @@ While SKLauncher supports modpack importing:
 For the most reliable experience and update support, a modpack-aware launcher such as the **Modrinth App** or **Prism Launcher** is recommended. \
 If you want any Launcher added in this documentation, talk to me in the ways of contact in the README.
 
+## How to add your own files
+To add your own files is simple, actually.
+1. Go to .minecraft at `C:\Users\[YOUR USER]\AppData\Roaming\.minecraft`
+2. If you installed the modpack through a launcher go to A, but if installation was mannual, go to B.
+   2A. In the folder, you will find another folder called ´modpacks´, open that and try to find the folder for Celerium, after you find it, you will have several folders like "mods", "resourcepacks", "shaderpacks", etc.
+   2B. In the folder you will find folders like "mods", "resourcepacks", "shaderpacks", etc.
+3. For shaders you put them in the "shaderpacks" folder, resource packs in the "resourcepacks" folder, all of them have their respective folders.
+4. Normally, you need a .zip file to put a respective thing in their folder. (Ex.: ComplementaryShaders, SimpleCraft, Fresh Animations, Sodium-extra, etc).
+5. Put the .zip file in its respective folder and open the game to test it
+  5A. For shader packs, you need to put Iris yourself.
+
 ## Known Issues
 This section lists known issues that may affect some users, along with recommended workarounds where available.
 
@@ -152,10 +165,10 @@ Some older Intel iGPUs (e.g. Bay Trail, HD 3000/4000) may experience crashes or 
 **Workarounds:**
 - In Sodium:
   - Set **Chunk Updates** to **Deferred**
-  - Disable **Multidraw**
   - Disable **Persistent Mapping**
 - Use **Fast** graphics settings
-- Consider switching to Linux (Mesa drivers tend to be more stable for older Intel GPUs)
+- Consider switching to Linux (Mesa drivers tend to be more stable for older Intel GPUs
+but do **NOT** if you don't understand how to change Operating Systems, research first.)
 
 ---
 

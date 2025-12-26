@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7ee8d5481dd82d2b104aa74fcd24125594b53c6845e1eee261ed0410dea75496"
+hash = "3a96a1e5bef30c16a8738c2a8acf54693225122424c39fa06f589a11ccc83b90"
 metafile = true
 
 [[files]]
@@ -101,8 +101,17 @@ hash = "e71ac6769675de1d2338a13e116f2aefcc8965ab0bc18b75a53572531c1447dd"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
+metafile = true
+
+[[files]]
 file = "overrides/config/BlockEntityRenderDistanceConfig.json"
 hash = "647b88a3418dc2cee15fe52e88d8001fa10a1cb441127de781ebd8895e5f207a"
+
+[[files]]
+file = "overrides/config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "overrides/config/entityculling.json"
@@ -110,7 +119,7 @@ hash = "5110d83fa12df053d48eb3bcfded9d174e617910ce3e6c72f01dfc248c4e6abb"
 
 [[files]]
 file = "overrides/config/fabric/indigo-renderer.properties"
-hash = "edf485b131f8fd427e614674c810aa850385c429ccf128a080420c15d39a70cb"
+hash = "366c6c0c35e76f52a542fc2739519b6b25a6a272d424f8fb7c95abb7897a870e"
 
 [[files]]
 file = "overrides/config/fastquit.toml"
@@ -122,7 +131,7 @@ hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 
 [[files]]
 file = "overrides/config/fpsdisplay.json"
-hash = "093d8d0c6a8ac5e110032d325b543e7d8a955b61754b292af6a24977aef045c1"
+hash = "d3ee86eaf8257f4b33a2282e64a23a268a66880fc73d6d2cbb2255f0bc768164"
 
 [[files]]
 file = "overrides/config/immediatelyfast.json"
@@ -134,7 +143,7 @@ hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
 file = "overrides/config/modmenu.json"
-hash = "1c35cd3fc90d49ec0b369924ad85905be05d8fde2499be7f769f6847f008c0c8"
+hash = "50292246b2188014944cbb9cfb0138aec90b904ecd7fd490e1d3985229f1723c"
 
 [[files]]
 file = "overrides/config/moonrise.yml"
@@ -146,7 +155,7 @@ hash = "73764ebefe1f74419175db5220de1e5e562b666048c8a0651b6b172029b2e6b8"
 
 [[files]]
 file = "overrides/config/sodium-fingerprint.json"
-hash = "4e28e08c6e0960fe1bdabae33033eb8e4aad61b82054323d642a6352710b6c30"
+hash = "d149fefc4f3350fb30be7983ab780c337231ebbb7d8b681cd44f66f870b60e5b"
 
 [[files]]
 file = "overrides/config/sodium-mixins.properties"
@@ -154,7 +163,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "overrides/config/sodium-options.json"
-hash = "258a265e47e6d18a3490fff03a76f9ae1a0de8c4c6821b479e24a631a664a119"
+hash = "380980cbf733536ad957138051844f41f6f94de4a984a269a66cda86f29d2cba"
 
 [[files]]
 file = "overrides/config/transition.json"
@@ -169,5 +178,17 @@ file = "overrides/config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
-file = "overrides/options.txt"
-hash = "e7454c7597ca89f74070c4577fdb60c1010093051aae3ac63221f2a9ed2989d0"
+file = "overrides/config/yosbr/config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/yosbr/config/fpsdisplay.json"
+hash = "d3ee86eaf8257f4b33a2282e64a23a268a66880fc73d6d2cbb2255f0bc768164"
+
+[[files]]
+file = "overrides/config/yosbr/config/sodium-options.json"
+hash = "380980cbf733536ad957138051844f41f6f94de4a984a269a66cda86f29d2cba"
+
+[[files]]
+file = "overrides/config/yosbr/options.txt"
+hash = "ccedcb4be31acc6a9d994d2aba6bceab994efe5fbc187b05877b81d85d65699c"

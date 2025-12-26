@@ -10,7 +10,7 @@ The Optimization modpack that revolves around Celeron CPUs and iGPUs or just wea
 # Goal
 The main objective of this modpack is to make things easy for people that don't have very good PCs, mainly, Pentium/Celeron/Laptop users. Because I believe that anyone should enjoy Minecraft with less problems! This is mainly why this modpack exists.
 ## How is Sodium safe?
-Originally, the modpack didn't have Sodium due to a crash, but now I discovered the option behind all that, an option called "Persistent Mapping", it requires OpenGL 4.4, so not all devices can use it, but sometimes, the drivers can be pretty buggy and tell the game that it does support it, even though it doesn't, so with this modpack, you pretty much don't have to do anything on the settings, because all of that is handled by the preset configuration I made.
+Originally, the modpack didn't have Sodium due to a crash, but now I discovered the option behind all that, an option called "Persistent Mapping", it requires OpenGL 4.4, so not all devices can use it, but sometimes, the drivers can be pretty buggy and tell the game that it does support it, even though it doesn't, so with this modpack, you pretty much don't have to do anything on the settings, because all of that is handled by the preset configuration I made. (only actually applies in versions 1.3.0+)
 ## Some important stuff
 This modpack doesn't control how often the mods that it includes update, so I'll only update a certain mod in the pack if that update comes to my attention. \
 I will only update the modpack to newer versions once all the mods that it includes are updated to said version, but if it takes too long, I'll update the modpack with some mods missing due to them not being available in the newer version. \
@@ -41,4 +41,5 @@ E-mail: jgraudomont02@gmail.com
 [MoreCulling](https://modrinth.com/mod/moreculling) by [FX](https://modrinth.com/user/FX) \
 [Text Placeholder API](https://modrinth.com/mod/placeholder-api) by [Patbox](https://modrinth.com/user/Patbox) \
 [Sodium](https://modrinth.com/mod/sodium/) by [CaffeineMC](https://modrinth.com/organization/caffeinemc) (available in versions 1.2.1+) \
-[YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) by [isxander](https://modrinth.com/user/isxander), the same creator of Debugify!
+[YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) by [isxander](https://modrinth.com/user/isxander), the same creator of Debugify! \
+[Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) by [shedaniel](https://modrinth.com/user/shedaniel) (available on the upcoming 1.3.0 build!)

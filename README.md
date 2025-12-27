@@ -17,6 +17,7 @@ Originally, the modpack didn't have Sodium due to a crash, but now I discovered 
 ## Some important stuff
 This modpack doesn't control how often the mods that it includes update, so I'll only update a certain mod in the pack if that update comes to my attention. \
 I will only update the modpack to newer versions once all the mods that it includes are updated to said version, but if it takes too long, I'll update the modpack with some mods missing due to them not being available in the newer version. \
+Although the modpack support 1.21.4-1.21.8 + 1.21.10, main development and testing is done on 1.21.10, the version that the modpack originally released at. \
 For guides and support about the modpack, refer to the [Documentation](https://github.com/Psyharsh/Celerium/blob/main/DOCS.md).
 ## Can I add my own mods?
 Of course you can! After all, this IS Minecraft: Java Edition, as long as the mod is compatible with the version of the game you got for the modpack and is made for Fabric, you can add it without any problems. But I advise you to be careful, some mods might not work well with others if they touch the same system, I am not responsible for any incompatibilities from mods you added to the modpack.

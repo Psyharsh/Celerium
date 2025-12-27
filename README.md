@@ -32,6 +32,7 @@ E-mail: jgraudomont02@gmail.com
 [Debugify](https://modrinth.com/mod/debugify/) by [isxander](https://modrinth.com/user/isxander) \
 [Distant Horizons](https://modrinth.com/mod/distanthorizons) (only available in 1.0, though.) by [jeseibel](https://modrinth.com/user/jeseibel) \
 [Dynamic FPS](https://modrinth.com/mod/dynamic-fps/) by [LostLuma](https://modrinth.com/user/LostLuma) \
+[Entity Culling](https://modrinth.com/mod/entityculling) by [tr7zw](https://modrinth.com/user/tr7zw) \
 [Fabric API](https://modrinth.com/mod/fabric-api/) and [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) by [modmuss50](https://modrinth.com/user/modmuss50) \
 [FastQuit](https://modrinth.com/mod/fastquit) by [contaria](https://modrinth.com/user/contaria) \
 [FerriteCore](https://modrinth.com/mod/ferrite-core) by [malte0811](https://modrinth.com/user/malte0811) \

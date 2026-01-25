@@ -130,8 +130,8 @@ If you want any Launcher added in this documentation, talk to me in the ways of 
 ## How to add your own files
 To add your own files is simple, actually.
 1. Go to .minecraft at `C:\Users\[YOUR USER]\AppData\Roaming\.minecraft`
-2. If you installed the modpack through a launcher go to A, but if installation was mannual, go to B.
-   2A. In the folder, you will find another folder called ´modpacks´, open that and try to find the folder for Celerium, after you find it, you will have several folders like "mods", "resourcepacks", "shaderpacks", etc.
+2. If you installed the modpack through a launcher go to A, but if installation was mannual, go to B. \
+   2A. In the folder, you will find another folder called ´modpacks´, open that and try to find the folder for Celerium, after you find it, you will have several folders like "mods", "resourcepacks", "shaderpacks", etc. \
    2B. In the folder you will find folders like "mods", "resourcepacks", "shaderpacks", etc.
 3. For shaders you put them in the "shaderpacks" folder, resource packs in the "resourcepacks" folder, all of them have their respective folders.
 4. Normally, you need a .zip file to put a respective thing in their folder. (Ex.: ComplementaryShaders, SimpleCraft, Fresh Animations, Sodium-extra, etc).

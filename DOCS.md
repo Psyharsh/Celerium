@@ -21,7 +21,7 @@ This preset is designed for **low-end and older PCs**, including weak CPUs and o
 
 ### Graphics
 - Graphics Quality: **Fast**
-- Smooth Lighting: **Off** 
+- Smooth Lighting: **On** (Turn off if desperate or if you need chunks to load faster)
 - Weather Quality: **Fast**
 - Cloud Quality: **Off**
 
@@ -97,9 +97,10 @@ This method automatically handles:
 **Prism Launcher** is a powerful multi-instance launcher suitable for advanced users.
 
 1. Install Prism Launcher
-2. Add a new instance
-3. Import the modpack using the provided `.mrpack` file
-4. Launch the instance after installation finishes
+2. Add a new instance \
+  2A. Search for the `Celerium` in the Modrinth tab, and choose the version you want
+  2B. Import the modpack using the provided `.mrpack` file of your choice
+3. Launch the instance after installation finishes
 
 Prism Launcher allows full control over:
 - Java versions
@@ -121,7 +122,7 @@ Prism Launcher allows full control over:
 
 While SKLauncher supports modpack importing:
 - Dependency handling may vary depending on the pack
-- Automatic updates are not guaranteed
+- The pack does **not** update automatically
 - Some issues may be harder to reproduce compared to modpack-focused launchers
 
 For the most reliable experience and update support, a modpack-aware launcher such as the **Modrinth App** or **Prism Launcher** is recommended. \

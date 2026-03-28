@@ -17,7 +17,7 @@ Originally, the modpack didn't have Sodium due to a crash, but now I discovered 
 ## Some important stuff
 This modpack doesn't control how often the mods that it includes update, so I'll only update a certain mod in the pack if that update comes to my attention. \
 I will only update the modpack to newer versions once all the mods that it includes are updated to said version, but if it takes too long, I'll update the modpack with some mods missing due to them not being available in the newer version. \
-Although the modpack support 1.21.4-1.21.8 + 1.21.10, main development and testing is done on 1.21.10, the version that the modpack originally released at. \
+Although the modpack supports 1.21.4-1.21.8 + 1.21.10-1.21.11, main development and testing is done on 1.21.10, the version that the modpack originally released at. \
 For guides and support about the modpack, refer to the [Documentation](https://github.com/Psyharsh/Celerium/blob/main/DOCS.md).
 ## Can I add my own mods?
 Of course you can! After all, this IS Minecraft: Java Edition, as long as the mod is compatible with the version of the game you got for the modpack and is made for Fabric, you can add it without any problems. But I advise you to be careful, some mods might not work well with others if they touch the same system, I am not responsible for any incompatibilities from mods you added to the modpack.
@@ -27,6 +27,7 @@ Of course it is! It's even open-source, you can find the link to the source and 
 Discord: @psystock \
 E-mail: jgraudomont02@gmail.com
 # Mods included:
+[BetterF3](https://modrinth.com/mod/betterf3) by [TreyRuffy](https://modrinth.com/user/TreyRuffy) \
 [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) by [Lortseam](https://modrinth.com/user/Lortseam) (available on 1.1.0+) \
 [Block Entity Render Distance](https://modrinth.com/mod/block-entity-rd/) by [LoLip_p](https://modrinth.com/user/LoLip_p) \
 [Cloth Config API](https://modrinth.com/mod/cloth-config/) by [shedaniel](https://modrinth.com/user/shedaniel) \
@@ -44,7 +45,11 @@ E-mail: jgraudomont02@gmail.com
 [Mod Menu](https://modrinth.com/mod/modmenu) by [Prospector](https://modrinth.com/user/Prospector) \
 [Moonrise](https://modrinth.com/mod/moonrise-opt) by [jpenilla](https://modrinth.com/user/jpenilla) \
 [MoreCulling](https://modrinth.com/mod/moreculling) by [FX](https://modrinth.com/user/FX) \
-[Text Placeholder API](https://modrinth.com/mod/placeholder-api) by [Patbox](https://modrinth.com/user/Patbox) \
+[Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) by [natanfudge](https://modrinth.com/user/natanfudge) \
 [Sodium](https://modrinth.com/mod/sodium/) by [CaffeineMC](https://modrinth.com/organization/caffeinemc) (available in versions 1.2.1+) \
+[Text Placeholder API](https://modrinth.com/mod/placeholder-api) by [Patbox](https://modrinth.com/user/Patbox) \
+[Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) by [MisterPeModder](https://modrinth.com/user/MisterPeModder) \
+[YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) by [isxander](https://modrinth.com/user/isxander), the same creator of Debugify! \
+[Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) by [shedaniel](https://modrinth.com/user/shedaniel) (available on 1.3.0+)
 [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) by [isxander](https://modrinth.com/user/isxander), the same creator of Debugify! \
 [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) by [shedaniel](https://modrinth.com/user/shedaniel) (available on 1.3.0+)

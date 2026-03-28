@@ -1,6 +1,6 @@
 name = "Celerium"
 author = "Psystock"
-version = "1.3.1"
+version = "1.4.0"
 pack-format = "packwiz:1.1.1"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "5a4cd180ee080b6cca2a34b3acc3bb593e71d1654e113600665c6c494e8ecfe2"
 
 [versions]
-fabric = "0.18.2"
+fabric = "0.18.4"
 minecraft = "1.21.10"

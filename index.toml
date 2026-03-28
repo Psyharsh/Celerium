@@ -1,8 +1,93 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/BlockEntityRenderDistanceConfig.json"
+hash = "647b88a3418dc2cee15fe52e88d8001fa10a1cb441127de781ebd8895e5f207a"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "5110d83fa12df053d48eb3bcfded9d174e617910ce3e6c72f01dfc248c4e6abb"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "366c6c0c35e76f52a542fc2739519b6b25a6a272d424f8fb7c95abb7897a870e"
+
+[[files]]
+file = "config/fastquit.toml"
+hash = "e85f39867513fe26179ba3cf7a00d343e9642ceaa96e7ea3cde6a1c3aa69dd4e"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "d9dbf869e3879f7ac4fc5b40073eacaeaafa35d4cd693e9884005e932f92b47d"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "50292246b2188014944cbb9cfb0138aec90b904ecd7fd490e1d3985229f1723c"
+
+[[files]]
+file = "config/moonrise.yml"
+hash = "6221a70da7c057a8a44ed67b4c347200dd2a0a8bf7e68a3d8ace8b7a9306aaf7"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "73764ebefe1f74419175db5220de1e5e562b666048c8a0651b6b172029b2e6b8"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "d149fefc4f3350fb30be7983ab780c337231ebbb7d8b681cd44f66f870b60e5b"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/transition.json"
+hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
+
+[[files]]
+file = "config/trender.json"
+hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "aa3a93b1fecbb3afd2390ad824fb6dbb1dbade2424fb47446d3c8a7105bb9ba0"
+
+[[files]]
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "cd53d00a8a2209bfcd4bc88f3797563431593407c02bb9f35e47dfb5db5419fa"
+
+[[files]]
+file = "config/yosbr/config/fpsdisplay.json"
+hash = "d3ee86eaf8257f4b33a2282e64a23a268a66880fc73d6d2cbb2255f0bc768164"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "84398e6c81daa3444dab47697bc3a1efc2d222444e691f9204a9f7363f0e8473"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "4d40d262ba4b4ad87d69afa0b75087fa3cdecbdf13456b98e8afdbb1939b8c14"
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "59658f3b9d3b86b24440008fd2031c53d538cbb35e84524bcdbc67f0de7ea251"
 metafile = true
 
 [[files]]
@@ -86,8 +171,18 @@ hash = "204a4b3b041fad4bb4dc543c74d540fcf239710494d2130cebe700bf1d8a7805"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "a533c05d98c59436819e9c801198a989c6ff55133c95281ea7f8d28a71e23777"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "6cc155f0633b2187f5bc71357ab1d82c1d49f9592bcbd73191ec1001c98c342b"
 metafile = true
 
 [[files]]
@@ -104,91 +199,3 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
 metafile = true
-
-[[files]]
-file = "overrides/config/BlockEntityRenderDistanceConfig.json"
-hash = "647b88a3418dc2cee15fe52e88d8001fa10a1cb441127de781ebd8895e5f207a"
-
-[[files]]
-file = "overrides/config/dynamic_fps.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
-
-[[files]]
-file = "overrides/config/entityculling.json"
-hash = "5110d83fa12df053d48eb3bcfded9d174e617910ce3e6c72f01dfc248c4e6abb"
-
-[[files]]
-file = "overrides/config/fabric/indigo-renderer.properties"
-hash = "366c6c0c35e76f52a542fc2739519b6b25a6a272d424f8fb7c95abb7897a870e"
-
-[[files]]
-file = "overrides/config/fastquit.toml"
-hash = "e85f39867513fe26179ba3cf7a00d343e9642ceaa96e7ea3cde6a1c3aa69dd4e"
-
-[[files]]
-file = "overrides/config/ferritecore.mixin.properties"
-hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
-
-[[files]]
-file = "overrides/config/fpsdisplay.json"
-hash = "d3ee86eaf8257f4b33a2282e64a23a268a66880fc73d6d2cbb2255f0bc768164"
-
-[[files]]
-file = "overrides/config/immediatelyfast.json"
-hash = "d9dbf869e3879f7ac4fc5b40073eacaeaafa35d4cd693e9884005e932f92b47d"
-
-[[files]]
-file = "overrides/config/lithium.properties"
-hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
-
-[[files]]
-file = "overrides/config/modmenu.json"
-hash = "50292246b2188014944cbb9cfb0138aec90b904ecd7fd490e1d3985229f1723c"
-
-[[files]]
-file = "overrides/config/moonrise.yml"
-hash = "6221a70da7c057a8a44ed67b4c347200dd2a0a8bf7e68a3d8ace8b7a9306aaf7"
-
-[[files]]
-file = "overrides/config/moreculling.toml"
-hash = "73764ebefe1f74419175db5220de1e5e562b666048c8a0651b6b172029b2e6b8"
-
-[[files]]
-file = "overrides/config/sodium-fingerprint.json"
-hash = "d149fefc4f3350fb30be7983ab780c337231ebbb7d8b681cd44f66f870b60e5b"
-
-[[files]]
-file = "overrides/config/sodium-mixins.properties"
-hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
-
-[[files]]
-file = "overrides/config/sodium-options.json"
-hash = "380980cbf733536ad957138051844f41f6f94de4a984a269a66cda86f29d2cba"
-
-[[files]]
-file = "overrides/config/transition.json"
-hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
-
-[[files]]
-file = "overrides/config/trender.json"
-hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
-
-[[files]]
-file = "overrides/config/yacl.json5"
-hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
-
-[[files]]
-file = "overrides/config/yosbr/config/dynamic_fps.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
-
-[[files]]
-file = "overrides/config/yosbr/config/fpsdisplay.json"
-hash = "d3ee86eaf8257f4b33a2282e64a23a268a66880fc73d6d2cbb2255f0bc768164"
-
-[[files]]
-file = "overrides/config/yosbr/config/sodium-options.json"
-hash = "380980cbf733536ad957138051844f41f6f94de4a984a269a66cda86f29d2cba"
-
-[[files]]
-file = "overrides/config/yosbr/options.txt"
-hash = "ccedcb4be31acc6a9d994d2aba6bceab994efe5fbc187b05877b81d85d65699c"

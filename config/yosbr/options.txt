@@ -1,6 +1,6 @@
 version:4556
 ao:true
-biomeBlendRadius:1
+biomeBlendRadius:0
 enableVsync:true
 entityDistanceScaling:0.75
 entityShadows:false
@@ -16,7 +16,7 @@ fullscreen:false
 gamma:0.5
 graphicsMode:0
 guiScale:2
-maxFps:90
+maxFps:80
 inactivityFpsLimit:"minimized"
 mipmapLevels:0
 narrator:0
@@ -24,8 +24,8 @@ particles:1
 reducedDebugInfo:false
 renderClouds:"false"
 cloudRange:2
-renderDistance:7
-simulationDistance:8
+renderDistance:6
+simulationDistance:7
 screenEffectScale:1.0
 soundDevice:""
 autoJump:false
@@ -56,7 +56,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["fabric"]
+resourcePacks:["vanilla","fabric"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -84,7 +84,7 @@ mouseWheelSensitivity:1.0
 rawMouseInput:true
 allowCursorChanges:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:false
 syncChunkWrites:true

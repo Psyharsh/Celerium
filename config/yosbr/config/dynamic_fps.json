@@ -1,1 +1,19 @@
-{}
+{
+  "idle": {
+    "condition": "on_battery"
+  },
+  "battery_tracker": {
+    "switch_states": true
+  },
+  "states": {
+    "hovered": {
+      "frame_rate_target": 34
+    },
+    "unfocused": {
+      "graphics_state": "reduced"
+    },
+    "unplugged": {
+      "frame_rate_target": 70
+    }
+  }
+}

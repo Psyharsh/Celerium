@@ -14,6 +14,7 @@ It is advised to only be used in case of:
 - Explanation of every mod included; 
 - Help configuring the video settings your own way. 
 Be careful when doing changes to the mods or configurations, if unusure of a setting, leave it as it is.
+
 ## Weak PC Preset
 This preset is designed for **low-end and older PCs**, including weak CPUs and old integrated GPUs (e.g. Intel HD 3000 / Bay Trail).
 
@@ -219,6 +220,9 @@ Below is a brief explanation of what each included mod does.
 
 ---
 
+### Better F3
+Makes the F3 menu more human-readable and highly customizable, in case you get lost in all those letters and numbers
+
 ### Better Mount HUD
 Improves the HUD when riding mounts by displaying useful information such as mount health and stamina.
 
@@ -271,11 +275,17 @@ Optimizes chunk loading and scheduling, improving performance during world gener
 ### MoreCulling
 Prevents rendering of blocks and entities that are not visible to the player, improving FPS.
 
-### Sodium
-A major rendering optimization mod that significantly improves FPS and reduces GPU load.
+### Not Enough Crashes
+Mod that handles crashes more cleanly, sending you back to the title screen instead of closing, and pinpointing to which mods were involved in the crash.
 
 ### Text Placeholder API
 Provides placeholder support for text used by other mods (library mod).
+
+### Shulker Box Tooltip
+Allows the player to see what's inside a shulker box in the inventory menu, without having to place the shulker box.
+
+### Sodium
+A major rendering optimization mod that significantly improves FPS and reduces GPU load.
 
 ### YetAnotherConfigLib (YACL)
 Provides a modern and flexible configuration UI used by several mods in the pack.

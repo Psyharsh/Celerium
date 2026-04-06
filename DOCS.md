@@ -235,7 +235,7 @@ A library mod required by many other mods to provide in-game configuration scree
 ### Debugify
 Fixes a large number of vanilla Minecraft bugs, improving stability and correctness without changing gameplay.
 
-### Distant Horizons *(removed after v1.0)*
+### Distant Horizons *(removed in 1.1.0+)*
 Adds true distant terrain rendering.  
 Removed due to increased CPU and GPU usage, which conflicted with the modpack’s low-end hardware focus.
 
@@ -275,7 +275,7 @@ Optimizes chunk loading and scheduling, improving performance during world gener
 ### MoreCulling
 Prevents rendering of blocks and entities that are not visible to the player, improving FPS.
 
-### Not Enough Crashes
+### Not Enough Crashes *(Removed in 1.4.1+)*
 Mod that handles crashes more cleanly, sending you back to the title screen instead of closing, and pinpointing to which mods were involved in the crash.
 
 ### Text Placeholder API

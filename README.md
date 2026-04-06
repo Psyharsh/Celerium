@@ -45,7 +45,7 @@ E-mail: jgraudomont02@gmail.com
 [Mod Menu](https://modrinth.com/mod/modmenu) by [Prospector](https://modrinth.com/user/Prospector) \
 [Moonrise](https://modrinth.com/mod/moonrise-opt) by [jpenilla](https://modrinth.com/user/jpenilla) \
 [MoreCulling](https://modrinth.com/mod/moreculling) by [FX](https://modrinth.com/user/FX) \
-[Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) by [natanfudge](https://modrinth.com/user/natanfudge) \
+[Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) by [natanfudge](https://modrinth.com/user/natanfudge) (ADDED IN 1.4.0 BUT QUICKLY REMOVED IN 1.4.1 DUE TO INCOMPATIBILITES) \
 [Sodium](https://modrinth.com/mod/sodium/) by [CaffeineMC](https://modrinth.com/organization/caffeinemc) (available in versions 1.2.1+) \
 [Text Placeholder API](https://modrinth.com/mod/placeholder-api) by [Patbox](https://modrinth.com/user/Patbox) \
 [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) by [MisterPeModder](https://modrinth.com/user/MisterPeModder) \

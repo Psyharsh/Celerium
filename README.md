@@ -16,7 +16,7 @@ The main objective of this modpack is to make things easy for people that don't 
 Celerium contains carefully picked mods and configurations to ensure you can enjoy a smoother Minecraft experience in your computer regardless of its specifications! Every mod that is in this pack are almost guaranteed to have little to no problems in Minecraft! As I said, this modpack contains configurations that come as defaults to you and thanks to YOSBR, these changes persist through versions, which means it just works out of the box! (You can always alter the settings in case you're unsatisfied).
 ## Some important stuff
 This modpack doesn't control how often the mods that it includes update, so I'll only update a certain mod in the pack if that update comes to my attention. \
-I will only update the modpack to newer versions once all the mods that it includes are updated to said version, but if it takes too long, I'll update the modpack with some mods missing due to them not being available in the newer version. \
+I will only update the modpack to newer versions once all the mods that it includes are updated to said version. \
 Although the modpack supports 1.21.4-1.21.8 + 1.21.10-1.21.11, main development and testing is done on 1.21.10, the version that the modpack originally released at. \
 For guides and support about the modpack, refer to the [Documentation](https://github.com/Psyharsh/Celerium/blob/main/DOCS.md).
 ## Can I add my own mods?

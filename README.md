@@ -12,8 +12,8 @@ If you need any help regarding the pack, refer to the [Documentation](https://gi
 The Optimization modpack that revolves around Celeron CPUs and iGPUs or just weak CPUs in general! 
 # Goal
 The main objective of this modpack is to make things easy for people that don't have very good PCs, mainly, Pentium/Celeron/Laptop users. Because I believe that anyone should enjoy Minecraft with less problems! This is mainly why this modpack exists.
-## How is Sodium safe?
-Originally, the modpack didn't have Sodium due to a crash, but now I discovered the option behind all that, an option called "Persistent Mapping", it requires OpenGL 4.4, so not all devices can use it, but sometimes, the drivers can be pretty buggy and tell the game that it does support it, even though it doesn't, so with this modpack, you pretty much don't have to do anything on the settings, because all of that is handled by the preset configuration I made (only actually applies automatically in versions 1.3.1+), you are still free to do some changes to the settings if you're unsatisfied.
+## How is this modpack good?
+Celerium contains carefully picked mods and configurations to ensure you can enjoy a smoother Minecraft experience in your computer regardless of its specifications! Every mod that is in this pack are almost guaranteed to have little to no problems in Minecraft! As I said, this modpack contains configurations that come as defaults to you and thanks to YOSBR, these changes persist through versions, which means it just works out of the box! (You can always alter the settings in case you're unsatisfied).
 ## Some important stuff
 This modpack doesn't control how often the mods that it includes update, so I'll only update a certain mod in the pack if that update comes to my attention. \
 I will only update the modpack to newer versions once all the mods that it includes are updated to said version, but if it takes too long, I'll update the modpack with some mods missing due to them not being available in the newer version. \

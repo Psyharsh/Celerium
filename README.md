@@ -9,9 +9,9 @@ If you need any help regarding the pack, refer to the [Documentation](https://gi
 ---
 
 # Meet Celerium! 
-The Optimization modpack that revolves around Celeron CPUs and iGPUs or just weak CPUs in general! 
+A modpack that focuses on stability and compatibility while also being very expandable.
 # Goal
-The main objective of this modpack is to make things easy for people that don't have very good PCs, mainly, Pentium/Celeron/Laptop users. Because I believe that anyone should enjoy Minecraft with less problems! This is mainly why this modpack exists.
+The goal of this modpack used to be just something that is safe for beginners but also contributes to a smooth experience, but it can be more than that, it can be a base layer for more modpacks with different goals.
 ## How is this modpack good?
 Celerium contains carefully picked mods and configurations to ensure you can enjoy a smoother Minecraft experience in your computer regardless of its specifications! Every mod that is in this pack are almost guaranteed to have little to no problems in Minecraft! As I said, this modpack contains configurations that come as defaults to you and thanks to YOSBR, these changes persist through versions, which means it just works out of the box! (You can always alter the settings in case you're unsatisfied).
 ## Some important stuff

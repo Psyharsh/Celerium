@@ -220,6 +220,9 @@ Below is a brief explanation of what each included mod does.
 
 ---
 
+### Alternate Current
+An efficient and non-locational redstone dust implementation, optimizing the redstone calculations, very useful for people that love using redstone and making farms
+
 ### Better F3
 Makes the F3 menu more human-readable and highly customizable, in case you get lost in all those letters and numbers
 
@@ -231,6 +234,9 @@ Allows limiting how far block entities (e.g. chests, furnaces, signs) are render
 
 ### Cloth Config API
 A library mod required by many other mods to provide in-game configuration screens.
+
+### Clumps
+Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area, and also makes you get all of the orbs at the same time without you having to have to see visual pollution as multiple orbs are in your screen
 
 ### Debugify
 Fixes a large number of vanilla Minecraft bugs, improving stability and correctness without changing gameplay.

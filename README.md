@@ -52,4 +52,5 @@ E-mail: jgraudomont02@gmail.com
 [Text Placeholder API](https://modrinth.com/mod/placeholder-api) by [Patbox](https://modrinth.com/user/Patbox) \
 [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) by [MisterPeModder](https://modrinth.com/user/MisterPeModder) \
 [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) by [isxander](https://modrinth.com/user/isxander), the same creator of Debugify! \
-[Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) by [shedaniel](https://modrinth.com/user/shedaniel) (available on 1.3.0+)
+[Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) by [shedaniel](https://modrinth.com/user/shedaniel) (available on 1.3.0+) \
+If you want to know exactly what each mod does, check the [documentation](https://github.com/Psyharsh/Celerium/blob/main/DOCS.md#how-mods-work)

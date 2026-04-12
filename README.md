@@ -27,10 +27,12 @@ Of course it is! It's even open-source, you can find the link to the source and 
 Discord: @psystock \
 E-mail: jgraudomont02@gmail.com
 # Mods included:
+[Alternate Current](https://modrinth.com/mod/alternate-current) by [Space Walker](https://modrinth.com/user/Space%20Walker) \
 [BetterF3](https://modrinth.com/mod/betterf3) by [TreyRuffy](https://modrinth.com/user/TreyRuffy) \
 [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) by [Lortseam](https://modrinth.com/user/Lortseam) (available on 1.1.0+) \
 [Block Entity Render Distance](https://modrinth.com/mod/block-entity-rd/) by [LoLip_p](https://modrinth.com/user/LoLip_p) \
 [Cloth Config API](https://modrinth.com/mod/cloth-config/) by [shedaniel](https://modrinth.com/user/shedaniel) \
+[Clumps](https://modrinth.com/mod/clumps) by [jareddlll08](https://modrinth.com/user/jaredlll08)
 [Debugify](https://modrinth.com/mod/debugify/) by [isxander](https://modrinth.com/user/isxander) \
 [Distant Horizons](https://modrinth.com/mod/distanthorizons) (only available in 1.0, though.) by [jeseibel](https://modrinth.com/user/jeseibel) \
 [Dynamic FPS](https://modrinth.com/mod/dynamic-fps/) by [LostLuma](https://modrinth.com/user/LostLuma) \
@@ -49,7 +51,5 @@ E-mail: jgraudomont02@gmail.com
 [Sodium](https://modrinth.com/mod/sodium/) by [CaffeineMC](https://modrinth.com/organization/caffeinemc) (available in versions 1.2.1+) \
 [Text Placeholder API](https://modrinth.com/mod/placeholder-api) by [Patbox](https://modrinth.com/user/Patbox) \
 [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) by [MisterPeModder](https://modrinth.com/user/MisterPeModder) \
-[YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) by [isxander](https://modrinth.com/user/isxander), the same creator of Debugify! \
-[Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) by [shedaniel](https://modrinth.com/user/shedaniel) (available on 1.3.0+)
 [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) by [isxander](https://modrinth.com/user/isxander), the same creator of Debugify! \
 [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) by [shedaniel](https://modrinth.com/user/shedaniel) (available on 1.3.0+)

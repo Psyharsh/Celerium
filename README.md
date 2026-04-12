@@ -32,7 +32,7 @@ E-mail: jgraudomont02@gmail.com
 [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) by [Lortseam](https://modrinth.com/user/Lortseam) (available on 1.1.0+) \
 [Block Entity Render Distance](https://modrinth.com/mod/block-entity-rd/) by [LoLip_p](https://modrinth.com/user/LoLip_p) \
 [Cloth Config API](https://modrinth.com/mod/cloth-config/) by [shedaniel](https://modrinth.com/user/shedaniel) \
-[Clumps](https://modrinth.com/mod/clumps) by [jareddlll08](https://modrinth.com/user/jaredlll08)
+[Clumps](https://modrinth.com/mod/clumps) by [jareddlll08](https://modrinth.com/user/jaredlll08) \
 [Debugify](https://modrinth.com/mod/debugify/) by [isxander](https://modrinth.com/user/isxander) \
 [Distant Horizons](https://modrinth.com/mod/distanthorizons) (only available in 1.0, though.) by [jeseibel](https://modrinth.com/user/jeseibel) \
 [Dynamic FPS](https://modrinth.com/mod/dynamic-fps/) by [LostLuma](https://modrinth.com/user/LostLuma) \

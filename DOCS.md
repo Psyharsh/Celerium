@@ -136,8 +136,6 @@ To add your own files is simple, actually.
 ## Known Issues
 This section lists known issues that may affect some users, along with recommended workarounds where available.
 
----
-
 ### Low FPS or Stuttering on Weak CPUs
 
 On systems with very weak CPUs, occasional stuttering may still occur, especially when:

@@ -21,7 +21,6 @@ Although the modpack supports 1.21.4-1.21.8 + 1.21.10-1.21.11, main development 
 For guides and support about the modpack, refer to the [Documentation](https://github.com/Psyharsh/Celerium/blob/main/DOCS.md).
 ## Can I add my own mods?
 Of course you can! After all, this IS Minecraft: Java Edition, as long as the mod is compatible with the version of the game you got for the modpack and is made for Fabric, you can add it without any problems. But I advise you to be careful, some mods might not work well with others if they touch the same system, always research about what you are adding before integrating it into the pack.
-Of course it is! It's even open-source, you can find the link to the source and the documentation on right, pretty useful stuff, right?
 ## Ways of contact:
 Discord: @psystock \
 E-mail: jgraudomont02@gmail.com
